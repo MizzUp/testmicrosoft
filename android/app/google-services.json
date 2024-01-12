@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637098807708",
+    "project_id": "testmicrosoft-qorqrk",
+    "storage_bucket": "testmicrosoft-qorqrk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637098807708:android:cae858658d2991c63cb859",
+        "android_client_info": {
+          "package_name": "com.mycompany.testmicrosoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3BFqRXDEaw08OujJXsEpvulCqKYGvfjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
